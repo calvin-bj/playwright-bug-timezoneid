@@ -4,7 +4,7 @@ Repository to reproduce playwright timezoneId bug
 
 # Prerequisites
 
-Ensure deps are installed using `yarn` and
+Ensure deps are installed using `yarn` and `yarn playwright install`
 
 # Reproduction steps
 
