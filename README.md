@@ -12,4 +12,5 @@ Ensure deps are installed using `yarn` and `yarn playwright install`
 2. Run `yarn playwright test`
 
 _Expected_: Test prints out time in Sydney Time (based on timezoneId setting in the config)
+
 _Actual_: Test prints out local time of the machine running the test
